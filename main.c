@@ -4,3 +4,8 @@ int main() {
 
     printf("hello world, it's testbranch1");
 }
+
+void add(int x, int y) {
+
+    printf("%d\n", x + y);
+}
